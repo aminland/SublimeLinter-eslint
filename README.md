@@ -4,7 +4,7 @@ SublimeLinter-eslint
 This linter plugin for [SublimeLinter][docs] provides an interface to [ESLint](https://github.com/nzakas/eslint). It will be used with files that have the “javascript” syntax.
 
 ## Specific to this fork ##
-# ESLint Plugin Friendly-ness #
+#### ESLint Plugin Friendly-ness ####
 If you are using eslint plugins to lint other languages, [this one](https://www.npmjs.com/package/@fellow/eslint-plugin-coffee) for CoffeeScript, [this one](https://github.com/eslint/typescript-eslint-parser) for TypeScript, or [this one](https://github.com/vuejs/eslint-plugin-vue) for using Vue.js, this fork will allow you lint those files right in SublimeText.
 
 You can install this fork directly from git ([instructions here](http://www.macdrifter.com/2012/08/install-sublime-packages-from-github.html)).
